@@ -1,0 +1,5 @@
+Programming Assignment #3 Answers:
+
+problem 1: 155432
+problem 2: 157491
+problem 3: 132671
